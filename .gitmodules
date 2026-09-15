@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "featR"]
+	path = featR
+	url = https://github.com/elkronos/featr
 [submodule "spatialkit"]
 	path = spatialkit
 	url = https://github.com/elkronos/gis_modeling_toolkit
